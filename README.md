@@ -37,5 +37,7 @@ The `main.c` file provides an example scenario where memory is allocated and fre
 
 ## Getting Started
 
-1. **Clone the Repository**: Begin by cloning this repository to your local machine using the following command: git clone https://github.com/omkar930/c_projects.git
+ **Clone the Repository**: Begin by cloning this repository to your local machine using the following command:
+ ```sh
+ git clone https://github.com/omkar930/c_projects.git
 
